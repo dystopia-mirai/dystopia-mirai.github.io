@@ -1,0 +1,4 @@
+baseURL = 'https://dystopia-mirai.github.io/'
+languageCode = 'ja-jp'
+title = 'ディストピア・みらい'
+theme = 'hugo-bearblog'

@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <main>
+    {{ with .Site.Home.Content }}
+      <div class="intro">
+        {{ . | safeHTML }}
+      </div>
+    {{ end }}
+
+    <hr/>
+
+    {{ range .Site.RegularPages.ByDate.Reverse }}
+      <article>
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time>
+      </article>
+    {{ end }}
+  </main>
+{{ end }}
