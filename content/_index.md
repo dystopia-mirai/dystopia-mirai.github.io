@@ -26,6 +26,6 @@ AIエンジニアでもある[安野たかひろ](https://takahiroanno.com)さ�
 
 チームみらいがもっと強い権力を手にしたときに報復を受けないよう、匿名で管理しています。
 
-応援してくれるという方は[このページのリポジトリ](https://github.com/dystopia-mirai/dystopia-mirai.github.io)にスターでもつけてやってください。
+この活動を応援してくれる方は、[このページのリポジトリ](https://github.com/dystopia-mirai/dystopia-mirai.github.io)にスターでもつけてやってください。
 
 Thanks, [Tor](https://www.torproject.org/)!
