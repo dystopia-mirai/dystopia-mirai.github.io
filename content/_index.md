@@ -24,10 +24,10 @@ AIエンジニアでもある[安野たかひろ](https://takahiroanno.com)さ�
 
 ----
 
-チームみらいがもっと強い権力を手にしたときに報復を受けないよう、匿名で管理しています。
-
 この活動を応援してくれる方は、[このページのリポジトリ](https://github.com/dystopia-mirai/dystopia-mirai.github.io)にスターでもつけてやってください。
 
-[このページのリポジトリ](https://github.com/dystopia-mirai/dystopia-mirai.github.io)にIssueやPull requestなどを立ててもらってもかまいません。が、それを採用するかどうかはページ管理者の[私](https://github.com/cyvilowl)が__恣意的に__決定します。
+[このページのリポジトリ](https://github.com/dystopia-mirai/dystopia-mirai.github.io)にIssueやPull requestなどを作っていただいてもかまいません。そのIssueやPull requestを採用するかどうかは、ページ管理者が恣意的に決定しますが。
+
+チームみらいが将来もっと強い権力を手にしたときに権力による報復を受けないよう、このページは匿名で管理しています。
 
 Thanks, [Tor](https://www.torproject.org/)!
